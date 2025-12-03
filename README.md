@@ -8,7 +8,7 @@
 
 > 🎯目标：制作一个网页（个人简历或兴趣小组页面）
 >
-> 📅时长：一周
+> 📅时长：两周
 
 ### 第一课 认识网页结构及标签
 
@@ -37,7 +37,8 @@
 [前端标签小结](https://www.cnblogs.com/stevending1st/p/htmlLabelAll.html)
 
 #### 作业
-- 必做：注册 [freeCodeCamp](https://www.freecodecamp.org/)。
+- 必做：注册 [freeCodeCamp](https://www.freecodecamp.org/)，提交个人主页。
+  - 方法：注册后点击头像或通过右上角 `Menu`-> `Profile` 进入个人主页，复制该页面地址提交。
 - 选做：尝试完成 [通过创建猫咪相册应用学习 HTML](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app) 。
 
 > **参考资料**
