@@ -34,7 +34,7 @@
 [前端标签小结](https://www.cnblogs.com/stevending1st/p/htmlLabelAll.html)
 
 #### 作业
-注册 freeCodeCamp，尝试完成 [通过创建猫咪相册应用学习 HTML](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)。
+注册 [freeCodeCamp](https://www.freecodecamp.org/)，尝试完成 [通过创建猫咪相册应用学习 HTML](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)。
 
 > 参考资料：
 > 
