@@ -46,3 +46,26 @@
 > 2. [freeCodeCamp - Legacy Responsive Web Design V8](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
 > 3. [HTML 标准](https://html.spec.whatwg.org/multipage/#toc-introduction)
 > 4. [W3school](https://www.w3school.com.cn/)
+
+
+### 第二课 常见标签及文档细读
+
+#### 学习方法
+
+read - search - ask
+
+#### 复习标签
+
+#### 阅读常见标签
+
+#### 作业
+- 必做：尝试完成 [通过创建猫咪相册应用学习 HTML](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app) 。
+
+> **参考资料**
+> 1. [MDN](https://developer.mozilla.org/zh-CN/)
+> 2. [freeCodeCamp - Legacy Responsive Web Design V8](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+> 3. [HTML 标准](https://html.spec.whatwg.org/multipage/#toc-introduction)
+> 4. [W3school](https://www.w3school.com.cn/)
+
+### 第三课 华为云平台使用
+
