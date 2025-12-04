@@ -3,6 +3,10 @@
 ## 目录
 
 1. 第一期 网页制作入门
+    1. 第一课 认识网页结构及标签
+    2. 第二课 常见标签及文档细读
+    3. 第三课 使用云开发环境
+
 
 ## 第一期 网页制作入门
 
@@ -67,5 +71,19 @@ read - search - ask
 > 3. [HTML 标准](https://html.spec.whatwg.org/multipage/#toc-introduction)
 > 4. [W3school](https://www.w3school.com.cn/)
 
-### 第三课 华为云平台使用
+### 第三课 使用云开发环境
+
+#### 华为云开发者空间
+
+1. 安装编辑器
+
+```bash
+sudo apt install code
+```
+
+#### 码上掘金平台
+
+#### 作业
+
+- 必做：使用 HTML 做一个页面（个人简历或兴趣小组页面）。
 
