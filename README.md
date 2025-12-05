@@ -87,3 +87,11 @@ sudo apt install code
 
 - 必做：使用 HTML 做一个页面（个人简历或兴趣小组页面）。
 
+### 致谢
+
+- 感谢 [gstar.huqi.host](https://gstar.huqi.host/) 为本次活动提供云资源及技术支持。
+
+- 感谢 [开源市集](https://open-source-bazaar.github.io/) 深夜自习室为本次活动提供技术支持。
+
+- 感谢 DN 武夷山提供本次活动场地。
+
