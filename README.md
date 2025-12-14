@@ -6,6 +6,10 @@
     1. 第一课 认识网页结构及标签
     2. 第二课 常见标签及文档细读
     3. 第三课 使用云开发环境
+    4. 第四课 初识 CSS
+    5. 第五课 盒子模型
+    6. 第六课 常见布局
+    7. 第七课 答疑及其他
 
 
 ## 第一期 网页制作入门
@@ -86,6 +90,125 @@ sudo apt install code
 #### 作业
 
 - 必做：使用 HTML 做一个页面（个人简历或兴趣小组页面）。
+
+### 第四课 初识 CSS
+
+#### 样式表
+
+##### 1. 行内样式表
+```html
+<p style="color: sienna; margin-left: 20px">
+This is a paragraph
+</p>
+```
+
+##### 2. 内部样式表
+```html
+<head>
+  <style type="text/css">
+    body {background-image: url("images/back40.gif");}
+  </style>
+</head>
+```
+
+##### 3. 外部样式表
+
+```html
+<head>
+    <link rel="stylesheet" type="text/css" href="mystyle.css" />
+</head>
+```
+
+```css
+body {background-image: url("images/back40.gif");}
+```
+
+> **优先级** 
+>
+> 行内样式表 > 内部样式表 > 外部样式表
+
+#### 选择器
+##### 1. & 嵌套选择器
+```css
+.parent-rule {
+  /* 父规则的属性 */
+  .child-rule {
+    /* 子规则的属性 */
+  }
+}
+```
+
+##### 2. 属性选择器
+```css
+a[title] {
+  color: purple;
+}
+
+a[href="https://example.org"] {
+  color: green;
+}
+```
+##### 3. 类选择器
+```css
+/* 所有含有 class="spacious" 类的元素 */
+.spacious {
+  margin: 2em;
+}
+
+/* 所有含有 class="spacious" 类的 <li> 元素 */
+li.spacious {
+  margin: 2em;
+}
+```
+
+##### 4. ID 选择器
+```css
+/* id 为“demo”的元素会被选中 */
+#demo {
+  border: red 2px solid;
+}
+```
+
+##### 5. 类型选择器（标签选择器）
+```css
+/* 所有 <a> 元素。*/
+a {
+  color: red;
+}
+```
+##### 6. 通配选择器
+```css
+* {
+  color: red;
+}
+```
+
+> **常见选择器优先级**
+>
+> ID 选择器 > 类选择器 > 类型选择器 > 通配选择器
+
+#### 作业
+- 必做：尝试完成 [通过创建咖啡店菜单学习基础 CSS](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu) 。
+
+> **参考资料**
+> 1. [选择器 - MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Selectors)
+> 2. [引入 CSS - MDN](https://www.w3school.com.cn/css/css_shiyong.asp)
+> 3. [通过创建咖啡店菜单学习基础 CSS](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
+
+### 第五课 盒子模型
+
+#### 作业
+- 必做：尝试完成 [通过创建咖啡店菜单学习基础 CSS](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu) 。
+
+> **参考资料**
+> 1. [CSS 盒子模型 - 菜鸟教程](https://www.runoob.com/css/css-boxmodel.html)
+> 2. [盒模型 - MDN](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Core/Styling_basics/Box_model)
+> 3. [通过创建咖啡店菜单学习基础 CSS](https://www.freecodecamp.org/chinese/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
+
+### 第六课 常见布局
+
+### 第七课 答疑及其他
+
 
 ### 致谢
 
